@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Baizid Tanvir</h1>
+<h1 align="center">I'm MD Baizid Tanvir</h1>
 <h3 align="center">I am a professional Full-Stack Web-Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdbaizidtanvir&label=Profile%20views&color=0e75b6&style=flat" alt="mdbaizidtanvir" /> </p>
@@ -7,12 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://baizidtp.com](https://baizidtp.com)
+
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **baizidtp.com**
+- 📫 How to reach me **https://baizidtp.com**
+
+- ⚡ Fun fact **I think I am finny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/mdbaizidtanvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdbaizidtanvir/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
