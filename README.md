@@ -6,7 +6,7 @@
 ### <div align="center">I'm @baizidtanvir, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [workbase](code.com)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -139,7 +139,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
